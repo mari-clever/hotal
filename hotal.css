@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 800px;
+    height: 270px;
+    border-radius: 15px;
+    border-width: 2px;
+    box-shadow: 1px 1px 15px;
+    display: flex;
+
+}
+.box:hover{
+    color: gray;
+}
+.box1{
+    position: relative;
+    left: 3px;
+    top: 3px;
+
+
+}
+.bt{
+    
+    border-radius: 10px 10px 10px 10px;
+}
+h4{
+    position: absolute;
+    bottom:250px;
+    background-color: red;
+    color: white;
+}
+.box2{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+i{
+    position: relative;
+    top:1px;
+}
+.icon{
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+input{
+    width: 80px;
+}
+.box3{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+h5{
+    position: relative;
+    top: 20px;
+    color: red;
+    background-color: rgb(194, 243, 227);
+}
+.box5{
+    margin-right: 100px;
+    color: red;
+
+}
+.ji{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    color: red;
+}
+h1{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    color: red;
+
+}
+.g{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
